@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: black;
+}
+#results{
+    color: white;
+    font-size: 2rem;
+}
+h3{
+    display: inline;
+}
+body{
+    background-color: grey;
+    text-align: center;
+}
+input {
+    border: 2px solid black;
+    height: 20px;
+    width: 150px;
+}
+button{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 20px;
+    width: 150px;
+}
